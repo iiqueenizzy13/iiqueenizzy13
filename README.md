@@ -12,6 +12,8 @@ I am Izabel, a cybersecurity major at Stevens Institute of Technology with a pas
 - CSS 🎀
 - Javascript ⚙️
 - C/C++ 🧠
+- Google Colab 💡
+- Jupyter Notebook 📓
 
 ## Projects 
 📂 Key Projects
