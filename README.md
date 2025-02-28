@@ -1,6 +1,6 @@
 ## About Me
 ## Hi there 👋
-I am Izabel, a cybersecurity major at Stevens Institute of Technology with a passion for risk management. I am interested in using my skills to enhance security frameworks in the healthcare and finacne industries.
+I am Izabel, a cybersecurity major at Stevens Institute of Technology with a passion for risk management. I am interested in using my skills to enhance security frameworks in the healthcare and finance industries.
 
 ## Tech Stack
 💻 Languages and Tools
